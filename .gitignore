@@ -1,0 +1,16 @@
+# Videos
+*.mp4
+
+# Model weights
+*.weights
+*.pt
+
+# Configs (optional — keep if you want)
+# *.cfg
+
+# Data files
+*.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
